@@ -1,2 +1,1 @@
-# gitadvanced_test1
-## Hello from GitHub Account
+## Hello from local PC
